@@ -31,7 +31,24 @@ With this project, we learned how to automate such a process using **Python**. T
 
 ## ▶️ How to run
 
-1. Clone the repository:
+Clone the repository:
+git clone https://github.com/Vanbrojas/automacao1_jornadapython.git
+Navigate to the project directory:
+cd automacao1_jornadapython
+Run the script:
+python automacao_1.py
+Important: Make sure the simulated website is open and ready for automation, and avoid moving the mouse or typing while the script is running.
 
-```bash
-git clone https://github.com/yourusername/yourrepository.git
+✅ Features
+
+Reads product data from a dataset.
+Automatically logs into a website.
+Fills in product information using mouse and keyboard automation.
+Speeds up repetitive tasks, reducing human error.
+🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+📄 License
+
+This project is for educational purposes, created as part of a Python automation course.
